@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Links
+# Projects
 
-- [GitHub](https://github.com/chaoticweg)
-- [Twitter](https://twitter.com/chaoticweg)
+- [LoL Tips](/lol-tips)
