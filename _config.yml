@@ -1,0 +1,16 @@
+# me
+title: ChaoticWeg
+email: shawn@chaoticweg.cc
+twitter_username: ChaoticWeg
+github_username:  ChaoticWeg
+
+# site stuff
+description: ChaoticWeg (Shawn Lutch)
+url: "http://chaoticweg.cc"
+repository: "ChaoticWeg/chaoticweg.github.io"
+
+# build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
