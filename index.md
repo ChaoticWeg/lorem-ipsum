@@ -4,5 +4,5 @@ layout: default
 
 # Projects
 
-- [EzBot](/EzBot)
+- [RangersBot](/slack-rangersbot)
 - [LoL Tips](/lol-tips)
