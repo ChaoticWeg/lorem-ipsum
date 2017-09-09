@@ -5,10 +5,10 @@ twitter_username: ChaoticWeg
 github_username:  ChaoticWeg
 
 # site stuff
-description: ChaoticWeg (Shawn Lutch)
-url: "http://chaoticweg.cc"
+description: ye
+url: "http://chaoticweg.cc/lorem-ipsum"
 baseurl: "/"
-repository: "ChaoticWeg/chaoticweg.github.io"
+repository: "ChaoticWeg/lorem-ipsum"
 
 # build settings
 markdown: kramdown
