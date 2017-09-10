@@ -1,3 +1,3 @@
 # lorem-ipsum
 
-ye
+[ye](http://chaoticweg.cc/lorem-ipsum)
